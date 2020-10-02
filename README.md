@@ -11,7 +11,7 @@ INSTALLATION & USAGE
 Github Repo
 # You will need to have Python 3 and Pip installed
 
-$ git clone https://github.com/ianramzy/article-summary-deep-learning.git
+$ git clone https://github.com/saran-gangster/Article-summary-using-deeplearning.git
 
 $ cd article-summary-deep-learning
 
